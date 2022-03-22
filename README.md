@@ -5,11 +5,7 @@ social media app using React, Tailwind & Sanity
 * [Components](#Components)
   * [Languages](#Languages)
   * [Development Environment](#Development-Environment)
-  * [Frameworks and Libraries](#Frameworks-and-Libraries)
   * [database](#databse)
-  * [dbms](#dbms)
- * [Details](#details)
-* [The Team](#the-team)
 
 ## Features
 * [Login/Registration and User Authentication](#Login-Registration-and-User-Authentication)
