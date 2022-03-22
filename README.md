@@ -35,10 +35,3 @@ Windows 10
 ```
 MongoDB
 ```
-
-```
-#### Frameworks and Libraries
-```
-Sanity
-Tailwind CSS
-```
