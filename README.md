@@ -15,7 +15,7 @@ social media app using React, Tailwind & Sanity
 * [Login/Registration and User Authentication](#Login-Registration-and-User-Authentication)
 * [User Profile System](#user-profile-system)
 * [Feed view](#management-systems)
-* [Pin component](#pin management)
+* [Pin component](#pin-management)
 ## Components
 
 #### Languages
